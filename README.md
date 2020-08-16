@@ -7,4 +7,4 @@ Its a android app to search imformation on anime. I used Jikan api to build this
   </ul>
   </p>
   
-  <p><img src="img/1.jpg" width="580px" height="1340px"/></p>
+  <p><img src="img/1.jpg" width="380px" height="1040px"/></p>
