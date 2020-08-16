@@ -6,3 +6,5 @@ Its a android app to search imformation on anime. I used Jikan api to build this
   <li>Jikan api</li>
   </ul>
   </p>
+  
+  <p><img src="img/1.jpg"/></p>
